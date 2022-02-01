@@ -1,1 +1,1 @@
-# expanding-search-bar
+# hidden-search-widget
